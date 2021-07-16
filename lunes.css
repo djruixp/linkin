@@ -1,0 +1,55 @@
+.Header{
+    background-color:#ffffff;
+    width:110%;
+    height: 45px;
+    border-width: 1px;
+    border-bottom: solid;
+    padding: 0px;
+    border-color: #999999;
+    align-items: flex-end;
+}
+
+.Header h1{
+    float: left;
+    color: #3dd869;
+    text-align: left;
+    font-family: 'Comfortaa', cursive;
+    margin: 0%;
+    padding-left: 10px;
+    width: 220px;
+}
+header img{
+    width: 45px;
+    height: 45px;
+    padding: 0px 0px 0px 10px;
+}
+.Menu {
+    float: right;
+    padding-right: 10%;
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+    height: 10px;
+    padding-top: 0px;
+}
+.Menu ul{
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+}
+.Menu li {
+    float: left;
+    list-style: none;
+    padding-right: 5px;
+    padding-left: 5px;
+    height: 20px;
+}
+.Menu a:hover h3{
+    color: #289246;
+}
+.Menu a{
+    text-decoration: none;
+}
+.Menu h3{
+    margin: 0px;
+    color: #3dd869;
+}
