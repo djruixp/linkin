@@ -77,7 +77,7 @@
 }
 .Clase1{
     background-color: #e2e2e2;
-    width: 95%;
+    width: 100%;
     border: #d8d8d8;
     border-radius: 16px;
     font-family: 'Comfortaa', cursive;
@@ -108,7 +108,7 @@
     border-style: none;
     border-radius: 16px;
     color: #ffffff;
-    width: 130px;
+    width: 100px;
     font-family: 'Comfortaa', cursive;
     margin: left 10px; ;
     font-size: 20px;
@@ -120,7 +120,7 @@
 }
 .Titulo{
     background-color: #e2e2e2;
-    width: 95%;
+    width: 100%;
     border: #d8d8d8;
     border-radius: 16px;
     font-family: 'Comfortaa', cursive;
@@ -141,7 +141,7 @@
 }
 .Clase2{
     background-color: #e2e2e2;
-    width: 95%;
+    width: 100%;
     border: #d8d8d8;
     border-radius: 16px;
     font-family: 'Comfortaa', cursive;

@@ -21,11 +21,11 @@
     border-bottom: solid;
     padding: 0px;
     border-color: #999999;
-    align-items: flex-start;
+    align-items: center;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-content: flex-start;
+    align-content: center;
     justify-content: space-between;
 }
 
@@ -43,22 +43,18 @@
     height: 45px;
     padding: 0px 0px 0px 0px;
 }
-@media screen and (max-width: 840px){
-    .Menu{
-        visibility: hidden;
-    }
-}
+
 
 .Menu {
     float: right;
     padding-right: 0px;
     font-family: 'Comfortaa', cursive;
     font-size: 20px;
-    height: 10px;
+    height: 30px;
     padding-top: 0px;
 }
 .Menu ul{
-    height: 80px;
+    height: 30px;
     margin: 0px;
     padding: 0px;
 }
