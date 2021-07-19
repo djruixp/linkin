@@ -17,6 +17,9 @@
     .Menu{
         visibility: hidden;
     }
+    .button{
+        width: 100px;
+    }
 }
 .Header h1{
     float: left;
