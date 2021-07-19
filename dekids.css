@@ -13,7 +13,11 @@
     align-content: flex-start;
     justify-content: space-between;
 }
-
+@media screen and (max-width: 840px){
+    .Menu{
+        visibility: hidden;
+    }
+}
 .Header h1{
     float: left;
     color: #3dd869;

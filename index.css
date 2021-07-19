@@ -43,7 +43,11 @@
     height: 45px;
     padding: 0px 0px 0px 0px;
 }
-
+@media screen and (max-width: 840px){
+    .Menu{
+        visibility: hidden;
+    }
+}
 
 .Menu {
     float: right;
