@@ -280,6 +280,21 @@
     cursor: pointer;
     transition:all 500ms ease;
 }
+.Go_Button13{
+    width: 200px;
+    height: 45px;
+    background-color: #3dd869;
+    color: #ffffff;
+    border-style: none;
+    border-radius: 30px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font-size: 1.3em;
+    text-transform: capitalize;
+    vertical-align: bottom;
+    cursor: pointer;
+    transition:all 500ms ease;
+}
 .boxes{
     display: flex;
     justify-content: center;
